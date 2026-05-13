@@ -2937,7 +2937,7 @@ const mapData = {
               "Elaboro": " ",
               "Estatus": "Sin mosaico",
               "Avance_shp": " ",
-              "Long_kms": 18,
+              "Long_kms": 13,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
@@ -32110,7 +32110,7 @@ const mapData = {
               "Elaboro": " ",
               "Estatus": "Con mosaico",
               "Avance_shp": " ",
-              "Long_kms": 18,
+              "Long_kms": 5,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
@@ -32125,7 +32125,7 @@ const mapData = {
       "shp_link": "shp/TAMP___SNLP_Digitalizaci\u00f3n.zip",
       "stats_1": {
         "groups": {
-          "Sin digitalizar": 426.0
+          "Sin digitalizar": 408.0
         },
         "label": "Digitaliza",
         "title": "Resumen 12-05-2026"
@@ -35077,7 +35077,7 @@ const mapData = {
               "Elaboro": " ",
               "Estatus": "Sin mosaico",
               "Avance_shp": " ",
-              "Long_kms": 18,
+              "Long_kms": 13,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
@@ -64250,7 +64250,7 @@ const mapData = {
               "Elaboro": " ",
               "Estatus": "Con mosaico",
               "Avance_shp": " ",
-              "Long_kms": 18,
+              "Long_kms": 5,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
@@ -64265,8 +64265,8 @@ const mapData = {
       "shp_link": "shp/TAMP___SNLP_Vuelo.zip",
       "stats_1": {
         "groups": {
-          "Con mosaico": 263.0,
-          "Sin mosaico": 163.0
+          "Con mosaico": 250.0,
+          "Sin mosaico": 158.0
         },
         "label": "Estatus",
         "title": "Resumen 12-05-2026"
