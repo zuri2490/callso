@@ -10092,15 +10092,15 @@ const mapData = {
               "Peaje": " ",
               "Km_Mosaico": " ",
               "Tipo": " ",
-              "Elaboro": " ",
-              "Estatus": "Sin mosaico",
+              "Elaboro": "Google",
+              "Estatus": "Con mosaico",
               "Avance_shp": " ",
               "Long_kms": 2,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
-              "Nom_Imagen": " ",
-              "Link": " ",
+              "Nom_Imagen": "Tamp_SNLP_16.tif",
+              "Link": "https://mega.nz/file/ngBU2JAa#JccwUO4iCL-Q14COFqrtToyYMcFkNlX6KvP-Yrhj9f4",
               "Link2": " ",
               "Shape_Length": 0.017211897850250263
             }
@@ -10334,15 +10334,15 @@ const mapData = {
               "Peaje": " ",
               "Km_Mosaico": " ",
               "Tipo": " ",
-              "Elaboro": " ",
-              "Estatus": "Sin mosaico",
+              "Elaboro": "Google",
+              "Estatus": "Con mosaico",
               "Avance_shp": " ",
               "Long_kms": 0,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
-              "Nom_Imagen": " ",
-              "Link": " ",
+              "Nom_Imagen": "Tamp_SNLP_15.tif",
+              "Link": "https://mega.nz/file/XoxHXZiT#MZDMojnaC4RBFd2wOSD7ITYgKLGWI2s8LUqQY8jmP9c",
               "Link2": " ",
               "Shape_Length": 0.0018449935437189094
             }
@@ -32891,8 +32891,7 @@ const mapData = {
       "shp_link": "shp/TAMP___SNLP_Vuelo.zip",
       "stats_1": {
         "groups": {
-          "Con mosaico": 408.0,
-          "Sin mosaico": 2.0
+          "Con mosaico": 410.0
         },
         "label": "Estatus",
         "title": "Resumen 20-05-2026  03:00 pm"
