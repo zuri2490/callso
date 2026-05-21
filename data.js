@@ -10444,8 +10444,8 @@ const mapData = {
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
-              "Nom_Imagen": "https://mega.nz/file/v1BjkZYZ#gBXGM17E-Jz7LSlhFeeVJzFI5iXvnyfXVGHxAUyM9r0",
-              "Link": " ",
+              "Nom_Imagen": "Tamp_SNLP_14.tif",
+              "Link": "https://mega.nz/file/v1BjkZYZ#gBXGM17E-Jz7LSlhFeeVJzFI5iXvnyfXVGHxAUyM9r0",
               "Link2": " ",
               "Shape_Length": 0.01124999571468674
             }
@@ -11299,7 +11299,7 @@ const mapData = {
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
               "Nom_Imagen": "ORTOFOTO6.tif",
-              "Link": " ",
+              "Link": "https://mega.nz/file/PxZ2TLgQ#Sw5ArVyv6rRjKEu-kEasJPl0qlzi3IR2qX-54jRU-co",
               "Link2": " ",
               "Shape_Length": 0.027731144280243744
             }
