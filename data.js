@@ -5721,9 +5721,9 @@ const mapData = {
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
-              "Nom_Imagen": "Ortofoto_Tramo3.jp2",
-              "Link": "https://mega.nz/file/6lBmWDIT#_G7ug_xTNZqaSfb3m5lSH9bhBDJtDAYzbPWPT8TGA_o",
-              "Link2": "https://mega.nz/file/68Z3VT5Y#W4UqDPrFIzkQPMCAT5fThvVFymBAuG4SR_hZ3GTKxio",
+              "Nom_Imagen": "Ortofoto_Tramo3b.jp2",
+              "Link": "https://mega.nz/file/68Z3VT5Y#W4UqDPrFIzkQPMCAT5fThvVFymBAuG4SR_hZ3GTKxio",
+              "Link2": "",
               "Shape_Length": 0.08394223444650051
             }
           },
@@ -32891,7 +32891,7 @@ const mapData = {
       "shp_link": "shp/TAMP___SNLP_Vuelo.zip",
       "stats_1": {
         "groups": {
-          "Con mosaico": 410.0
+          "Con mosaico": 9.0
         },
         "label": "Estatus",
         "title": "Resumen 20-05-2026  03:00 pm"
