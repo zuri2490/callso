@@ -10,8 +10,8 @@ const mapData = {
             "color": "#00ff00",
             "weight": 3
           },
-          "Sin mosaico": {
-            "color": "#ff0000",
+          "Con mosaico actualizado": {
+            "color": "#40e0d0",
             "weight": 3
           }
         },
@@ -732,6 +732,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_13_14.jp2",
               "Link": "https://mega.nz/file/H4B2gaDZ#Q9YD6O8tSvAJQyMnuqd4y8EnIekJa2ArFNuzTFN4JFA",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.1361726988152823
             }
           },
@@ -1151,6 +1152,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo10.jp2",
               "Link": "https://mega.nz/file/qxhR3BRT#mMdYASGk205dRJGQiaU-ddyP_DLvJ8GDVaCiwZ4kWNI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0893307257863533
             }
           },
@@ -1386,6 +1388,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tamiun.jp2",
               "Link": "https://mega.nz/file/jgIySAiI#6t0_x_NLdN030QpwIkgjbKMr8PFJ0LMO1pcYox9GsWk",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.03593552529437409
             }
           },
@@ -2417,6 +2420,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_82_87.jp2",
               "Link": "https://mega.nz/file/HgRywJaK#OgGZT1n0-Z_4UldDfvKOtzaqWLatmGwt3rJW_xLDXQM",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.1344822408931278
             }
           },
@@ -2728,6 +2732,7 @@ const mapData = {
               "Nom_Imagen": "SLP_63a.jp2",
               "Link": "https://mega.nz/file/78QFhAoR#vxT9f_WY4AQ9jetaOJLjSbV-MsVLuKWm_oO3VDi0vcc",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.06657562202601254
             }
           },
@@ -3007,6 +3012,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_9.tif",
               "Link": "https://mega.nz/file/flIC3YLA#PjwdxfuOkP1SNgEWyqqvVfA4W_rZNsWDlwaMjUOuD-s",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.059069679214199707
             }
           },
@@ -3206,6 +3212,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_65.jp2",
               "Link": "https://mega.nz/file/LhpXRLQS#KYT2MinGvkQNfotkrLTlecfr1bN54hURTnPuhkWwTyQ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05860579883035958
             }
           },
@@ -3309,6 +3316,7 @@ const mapData = {
               "Nom_Imagen": "VIASNLP.jp2",
               "Link": "https://mega.nz/file/PpwGxCpQ#v3dXrtGZqFLFKUXtdJ_6zmvHBbEe5i919h9WDp6lxes",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.02288688974286233
             }
           },
@@ -3608,6 +3616,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_21_con.jp2",
               "Link": "https://mega.nz/file/25ojBSTQ#jCy5If-0i1G4YCR7Xt41MQ25iq3g2B5pGFSw7YSys8Q",
               "Link2": "",
+              "Link_CN": null,
               "Shape_Length": 0.03430089280058339
             }
           },
@@ -3875,6 +3884,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_21_con.jp2",
               "Link": "https://mega.nz/file/m1Rk0BSa#mweEh2pFN57IH0HB3B7KsPC2gZ2j1FbkXQ6KVucq9SU",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.02481763888114823
             }
           },
@@ -4030,6 +4040,7 @@ const mapData = {
               "Nom_Imagen": "MAX.tif",
               "Link": "https://mega.nz/file/e9h0kTrK#I8ZkOqaVGAwp2KApECwjMcHub3PojExwz8RFzUIT84Q",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.011976463687774318
             }
           },
@@ -4097,6 +4108,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_1.tif",
               "Link": "https://mega.nz/file/rxgzXJQB#pUwS9JfiiHxZIm3LvHjjwLPxv-ANWY4vwqNBnAqAoC8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.003514113181834886
             }
           },
@@ -4148,6 +4160,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_2.tif",
               "Link": "https://mega.nz/file/mgAwhLgB#kVBjded-aSwpg5XOzOKEChiMyhIq_M8_sBoqXgFy4mM",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0025109521505228168
             }
           },
@@ -4187,6 +4200,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_3.tif",
               "Link": "https://mega.nz/file/3oAF3RRb#vlHWVc4ZjP3GuVM5rNEgRBzYD9AnfErl8yYDbHDF1iE",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0005183992934180614
             }
           },
@@ -4222,6 +4236,7 @@ const mapData = {
               "Nom_Imagen": "SalidaT.jp2",
               "Link": "https://mega.nz/file/K1oVSIaB#lsUZEn4QEpI-4jqQVopiBqQjJhEjly2GWFmAqfL0fzA",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0002910880797256836
             }
           },
@@ -4289,6 +4304,7 @@ const mapData = {
               "Nom_Imagen": "SalidaT.jp2",
               "Link": "https://mega.nz/file/K1oVSIaB#lsUZEn4QEpI-4jqQVopiBqQjJhEjly2GWFmAqfL0fzA",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.00318372850830093
             }
           },
@@ -4692,6 +4708,7 @@ const mapData = {
               "Nom_Imagen": "TRamo1_b.tif",
               "Link": "https://mega.nz/file/v05gCQpT#fpmJbS_xyNPjMZLt6JSW-RXlqQYRwueOFKywUX_qQCM",
               "Link2": "https://mega.nz/file/e0AmHCwZ#BJRBE_6Zl7PMGKAnapnknR-9kTsanlbQv7PlLVeckL8",
+              "Link_CN": null,
               "Shape_Length": 0.09055339771839642
             }
           },
@@ -5359,6 +5376,7 @@ const mapData = {
               "Nom_Imagen": "TRamo1_b.tif",
               "Link": "https://mega.nz/file/rxgCmDBb#AwlVcs5emgIbAiiUA9qLRew88VRsYmq3JBpOmV6HYWA",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.09300252173558249
             }
           },
@@ -5406,6 +5424,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_4.tif",
               "Link": "https://mega.nz/file/SwpxwAwQ#G5xG5V0QW3l_-v4eJdNW1ZY0gUL31pvCEEYX4RQMIsY",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0025544806572238565
             }
           },
@@ -5449,6 +5468,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_5.tif",
               "Link": "https://mega.nz/file/SwpxwAwQ#G5xG5V0QW3l_-v4eJdNW1ZY0gUL31pvCEEYX4RQMIsY",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.002881887884641901
             }
           },
@@ -5724,6 +5744,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo3b.jp2",
               "Link": "https://mega.nz/file/68Z3VT5Y#W4UqDPrFIzkQPMCAT5fThvVFymBAuG4SR_hZ3GTKxio",
               "Link2": "",
+              "Link_CN": null,
               "Shape_Length": 0.08394223444650051
             }
           },
@@ -5763,6 +5784,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_6.tif",
               "Link": "https://mega.nz/file/29o3zKYZ#RNKAe9d_FCJ-Hvhx0KHpYi1vnwxCTmoUsRetBqjwdDg",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.002247372182360602
             }
           },
@@ -6270,6 +6292,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo4.jp2",
               "Link": "https://mega.nz/file/eoAjxLTb#xfI7I8mMw7wQ1aEfYsDTb2WGI_guXD6FKntHxXqqnRw",
               "Link2": "https://mega.nz/file/jwZQDTRY#kWmIt8LqggtomfCrqSnAUCr7UpP3mlPNlDtkL16U0xY",
+              "Link_CN": null,
               "Shape_Length": 0.09261340248180967
             }
           },
@@ -6457,6 +6480,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo5.jp2",
               "Link": "https://mega.nz/file/ugR1FYbB#acqV9kp_UNQPOippCQoBDfJxZj-6LJX86_82PInhKiM",
               "Link2": "https://mega.nz/file/fsQWnK7R#Xju-y8NrbI0fMBRwWXP91mlYmcqvHIUnC6PmR6FERcE",
+              "Link_CN": null,
               "Shape_Length": 0.08679241521579432
             }
           },
@@ -6859,15 +6883,16 @@ const mapData = {
               "Km_Mosaico": " ",
               "Tipo": " ",
               "Elaboro": " ",
-              "Estatus": "Con mosaico",
+              "Estatus": "Con mosaico actualizado",
               "Avance_shp": " ",
               "Long_kms": 9,
               "km_acumula": " ",
               "Digitaliza": "Sin digitalizar",
               "ID2": " ",
               "Nom_Imagen": "Ortofoto_Tramo6a.jp2",
-              "Link": "https://mega.nz/file/etAiSR7A#U2QxB1C4u-2duE1IkDsAz6r6_7b14BnRmFcuZ8l4SYA",
-              "Link2": "https://mega.nz/file/j4pgkCSL#WMPLiLrAJ1qysk8rCBYAigL0wH9rmx9uY_YtuMFB7oQ",
+              "Link": "https://mega.nz/file/L8BR1b6D#dUT8drYWHJJCJMuVmCqF9NQZrrvje-F7zsrPny5MnXw",
+              "Link2": "",
+              "Link_CN": "https://mega.nz/file/r9ZwyLTY#ITnuC2bCOjpsyXTnV0lNs-8cMw8flCnzwvCdrlKFnDs",
               "Shape_Length": 0.082833370996523
             }
           },
@@ -7427,6 +7452,7 @@ const mapData = {
               "Nom_Imagen": "Ortomosaico_Tramo7.jp2",
               "Link": "https://mega.nz/file/GsgTBLQY#lYYsQhzCy3BAIPjmHa-wU3FrjhQk0VlnbY3zIpbd21Y",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.08775100735354817
             }
           },
@@ -7750,6 +7776,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo8_a.tif",
               "Link": "https://mega.nz/file/CkxVSJaK#6Lrjo4fX7-QCX1Jw28t_kV6xqaJ5N6RNyM76OeAt69M",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.09188623225225824
             }
           },
@@ -8165,6 +8192,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_Tramo9.jp2",
               "Link": "https://mega.nz/file/jloUFapL#gV7jinaSeBZqw2aoMiidSsn8qJUH6zKQDqbrU_qv4jg",
               "Link2": "https://mega.nz/file/nh4w0Rqb#aSvZNpn5O1s5cqUJ2_QjHqtLT13q1ya-95eP69sOE3Y",
+              "Link_CN": null,
               "Shape_Length": 0.09014047259051218
             }
           },
@@ -8732,6 +8760,7 @@ const mapData = {
               "Nom_Imagen": "Ortomosaico_Tramo11.jp2",
               "Link": "https://mega.nz/file/2g4ykZgB#RSAt0BWCKXUqHc9ou2LZOkzYkIwHMeUGzkBGliI_Oa0",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.08778008330912175
             }
           },
@@ -9059,6 +9088,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_tramo12.jp2",
               "Link": "https://mega.nz/file/XtQQVQzK#O2kdZ3Bky9m8qniRVgOYWfVfNTmv3CRm_54SCx4x7Ek",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.08918807943437498
             }
           },
@@ -9122,6 +9152,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_7.tif",
               "Link": "https://mega.nz/file/KtBk1ZhL#56yNh9FEB0uQ1eW-9ELaAU7pnwZW-PcE1CZfOuSL35c",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0026628736836325833
             }
           },
@@ -9329,6 +9360,7 @@ const mapData = {
               "Nom_Imagen": " ",
               "Link": " ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.036802283608414726
             }
           },
@@ -9824,6 +9856,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto_1_2.jp2",
               "Link": "https://mega.nz/file/2s4AzIga#Gtic41wwGr4xAzGj7vJsvcSaMFQcHgWrS72nwkdw_BM",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.133865875991461
             }
           },
@@ -10011,6 +10044,7 @@ const mapData = {
               "Nom_Imagen": "Ortofoto3.tif",
               "Link": "https://mega.nz/file/6lYl0J6D#DSvrX5MNNCSwCxjfise4c-lin8nEQMAVZJha9rNP3G8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05928489857302899
             }
           },
@@ -10102,6 +10136,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_16.tif",
               "Link": "https://mega.nz/file/ngBU2JAa#JccwUO4iCL-Q14COFqrtToyYMcFkNlX6KvP-Yrhj9f4",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.017211897850250263
             }
           },
@@ -10297,6 +10332,7 @@ const mapData = {
               "Nom_Imagen": "ORTO4.tif",
               "Link": "https://mega.nz/file/z9J2mTCB#AbXBgPMybqSHZ7nMn2irmEx3XyVC5h3Am0MRD1miiTc",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.016308719701179003
             }
           },
@@ -10344,6 +10380,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_15.tif",
               "Link": "https://mega.nz/file/XoxHXZiT#MZDMojnaC4RBFd2wOSD7ITYgKLGWI2s8LUqQY8jmP9c",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0018449935437189094
             }
           },
@@ -10447,6 +10484,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_14.tif",
               "Link": "https://mega.nz/file/v1BjkZYZ#gBXGM17E-Jz7LSlhFeeVJzFI5iXvnyfXVGHxAUyM9r0",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.01124999571468674
             }
           },
@@ -10750,6 +10788,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_5.tif",
               "Link": "https://mega.nz/file/Ct5R0Q5L#w3T5EcQW4hS7RF5rYc9d_hgp1_4JZWeFh-k7i763ZZQ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.025534775143013458
             }
           },
@@ -11301,6 +11340,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO6.tif",
               "Link": "https://mega.nz/file/PxZ2TLgQ#Sw5ArVyv6rRjKEu-kEasJPl0qlzi3IR2qX-54jRU-co",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.027731144280243744
             }
           },
@@ -11356,6 +11396,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_13.tif",
               "Link": "https://mega.nz/file/K0JgxASZ#TBmchjagrskrJtf3ZnwKBAVFXPP7SfZFh669lfXfaL4",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0013393802609479425
             }
           },
@@ -12355,6 +12396,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_51_52.tif",
               "Link": "https://mega.nz/file/vtxGHC4I#TbSzQiPQBr_k41EBN3_ffpEmjVibjVedtc-Y-iGc0EI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.06842735238093792
             }
           },
@@ -13950,6 +13992,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_10_11.tif",
               "Link": "https://mega.nz/file/f5hQ3YoQ#Xl7FVl1VytRQqV4UMgtrfWarlPJ4MaYCJ1QYlGgkWqw",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.08548593411753723
             }
           },
@@ -15353,6 +15396,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_48_49_50.tif",
               "Link": "https://mega.nz/file/PooiDS7A#6uUT0ZZPRZMvFMNQXgIX3ZDXmf8R_tUlWHRqDWhlSnI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.07302624225005414
             }
           },
@@ -16156,6 +16200,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_53.tif",
               "Link": "https://mega.nz/file/r5xCBaTK#ZMGXiHxR5EvlX-pBMHty3z5se7O5TpaRSNkBbOLtgwQ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.04635585382718904
             }
           },
@@ -16359,6 +16404,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_12.tif",
               "Link": "https://mega.nz/file/Khp0WCpR#41Vjxs0oifITZIEd9f4Cc4-GtD4RNRXtqV5Ay8ge25I",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.008511724134907292
             }
           },
@@ -16622,6 +16668,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_58.tif",
               "Link": "https://mega.nz/file/WsxVVIyb#JfAcwn1bZEl2WY41XDm6QLX2GTLkX4GehuU_sxLmugI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.038889622578740346
             }
           },
@@ -17077,6 +17124,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_57.jp2",
               "Link": "https://mega.nz/file/39RRDRaD#KLu0O4ACrIJe0CdA2ahvS1dgeDedaXfneR8gxNIwDtA",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0956804374890319
             }
           },
@@ -17748,6 +17796,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_56_a.jp2",
               "Link": "https://mega.nz/file/Pk4nERSa#JfiLsc4s4tFJYppZ2yzrK2E3DJdUjxGdIdfKytdiVPM",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.047570768297740186
             }
           },
@@ -17923,6 +17972,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_11.tif",
               "Link": "https://mega.nz/file/XsJGTThR#9eS4Hnfpl7C5AixXWpi6rD3A52QYuAwd01pJ0dR4axw",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.009576561424428812
             }
           },
@@ -18726,6 +18776,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_59.jp2",
               "Link": "https://mega.nz/file/W54EHRAL#V_HSsCYm8sQSmT9QFKnnlkr7_x4kF28QWJlTJVkTonk",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.044470648605971885
             }
           },
@@ -18885,6 +18936,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_10.tif",
               "Link": "https://mega.nz/file/uwoFwJZZ#K5xglfYAoARPfsof0hF1l7HJo-TPSTD8L7QBjkksnrU",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.006490082870175393
             }
           },
@@ -19728,6 +19780,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP59.jp2",
               "Link": "https://mega.nz/file/j8BBDTpY#fBDojcmkCoTx6KlBdxfFxasB0Vncned3MMyuXoXVUb8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05312527148458593
             }
           },
@@ -20363,6 +20416,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_61.jp2",
               "Link": "https://mega.nz/file/21ZDWRjT#7K1ccYSYV7e6vxlgo0Qar-GlnS1KF84EHwxPgQw7DgE",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.04981991265856466
             }
           },
@@ -20810,6 +20864,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_62.jp2",
               "Link": "https://mega.nz/file/f0xjgJ5A#DOhS1PLod4DPgH53MvTOHjUCJ9gPcm1JutfPNFjbTEs",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.04826841089778381
             }
           },
@@ -21057,6 +21112,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_64.jp2",
               "Link": "https://mega.nz/file/jgpxTbjb#XIKL8ABLTZ7ATqexlF_9rujvE0NuOBsvge213AjGcJk",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.055236481400958756
             }
           },
@@ -21328,6 +21384,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_66.jp2",
               "Link": "https://mega.nz/file/O8IkCLTa#QVdVGITaTDsjJiD28QpeXDzbYVEPV_rWy32AYHS6sSY",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0533590665973757
             }
           },
@@ -21495,6 +21552,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_67.jp2",
               "Link": "https://mega.nz/file/PooDmQ7B#tFvcIuywrHJfqI0YtFQU6-k6_uJEdCc07VfS9Eq6dw8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.057972976507128876
             }
           },
@@ -21774,6 +21832,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_88.jp2",
               "Link": "https://mega.nz/file/TwxUgSwT#KP0nx_ybVqaak9LG7M5aKVoY0SCFNYzJGwl11QNsQpQ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.06696085164422763
             }
           },
@@ -22001,6 +22060,7 @@ const mapData = {
               "Nom_Imagen": "Tamp_SNLP_8.tif",
               "Link": "https://mega.nz/file/L1gzTBRb#SvtpMcOrSJlIkPpMbD2kEr1wkpbvlWP6T4B2yuANZpQ",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.015662144984923534
             }
           },
@@ -22704,6 +22764,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_47.jp2",
               "Link": "https://mega.nz/file/G9JUzLiJ#suUQc8uhsHSLW2tENV-j5X1clMQrB9qXWy_57YmY-9Q",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.0374197016938959
             }
           },
@@ -23575,6 +23636,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_49.jp2",
               "Link": "https://mega.nz/file/Hk4HTAYI#cPAZWZAdxfkY2_KgArMjChJ3GyhlrKUNyupgHE2b9Ro",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.03585412259376508
             }
           },
@@ -23942,6 +24004,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO__SLP_48.jp2",
               "Link": "https://mega.nz/file/C8JjXDZL#8PBaRxbxS-x0ulWX9X0o4pdQsIlBfjdefNwmrSDOsfs",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.033158512277795135
             }
           },
@@ -24613,6 +24676,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_94.jp2",
               "Link": "https://mega.nz/file/Dh4QUBDS#HlVOyQYdAv8ZtWrVdvDARKBF5QWPaG8fOI9seZOc34g",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05233974794276393
             }
           },
@@ -25088,6 +25152,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_95.jp2",
               "Link": "https://mega.nz/file/vs5g1DwI#yr6aqqIRLnoogJlDZGXJcfDitDKeXYY2YiSBbN6NOHw",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05519192302005801
             }
           },
@@ -26235,6 +26300,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_96.jp2",
               "Link": "https://mega.nz/file/mxBSVToI#8kSHOErZ-x08xhnwGhdD6TdI_juWY_v0FChPFL2GMA8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05412307086791925
             }
           },
@@ -27354,6 +27420,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_97.jp2",
               "Link": "https://mega.nz/file/7gJW2IRT#ozPtfzQQ892kpO47EcS96IFhCkIVwfwMFwu2oI8jV2g",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.04754354983227278
             }
           },
@@ -27881,6 +27948,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_98a.jp2",
               "Link": "https://mega.nz/file/Dt5AQLqI#mkSz8R1K91ZMS1dRo1AdcnP16fOGRRWtqp3xJggvENI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.04793691340012295
             }
           },
@@ -28436,6 +28504,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_99.jp2",
               "Link": "https://mega.nz/file/j4ZCgbhA#HTMKUrVH39uh0GYGRkx_RLNxaBrR1lYEH31b3G8yZm0",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05385394050689726
             }
           },
@@ -29023,6 +29092,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_100.jp2",
               "Link": "https://mega.nz/file/2sojzIoK#uVetAmdbQbkbt8YYv8kGQ-BqnIPlwGfhWkH2juxltRI",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.05207887116480477
             }
           },
@@ -29454,6 +29524,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_1010.jp2",
               "Link": "https://mega.nz/file/b1ZxwBRD#wVo7dg_1tvtrVc_BDpRkO6kIQePtzkEMrW223Zb_Zzw",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.051225350560512
             }
           },
@@ -30033,6 +30104,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_102.jp2",
               "Link": "https://mega.nz/file/GohD2T7D#3sws5KOsrVmXWByQxib7byV8kiFUuDdMegsNHSqpAdk",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.052026193466665024
             }
           },
@@ -30580,6 +30652,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_103.jp2",
               "Link": "https://mega.nz/file/3kJzUIYZ#Nd8LMKvpVbfvVQVQUmVd-U6PxwgAgrx7serbY3wdhR8",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.049829833236984734
             }
           },
@@ -31223,6 +31296,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_104.jp2",
               "Link": "https://mega.nz/file/TxBnwZjD#mHhPnAh9JUbbNRu8wSO1klI97Zzit4kOkLI_dsWUQOw",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.054211162431189175
             }
           },
@@ -31946,6 +32020,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_104_105.jp2",
               "Link": "https://mega.nz/file/C9wjXSgJ#ypSU7_huuEICiZ5Ia0QEZrol1qGTOPMq2Tm_G-8BGBk",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.11295829533541932
             }
           },
@@ -32337,6 +32412,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_107_108.jp2",
               "Link": "https://mega.nz/file/H5pRxAJa#blRYoX7ydM_vdyMSe6I6SDYNVtH7-lMex7iPLGF2pg0",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.08852314554999774
             }
           },
@@ -32692,6 +32768,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_109.jp2",
               "Link": "https://mega.nz/file/W1p3nJJA#iD40x2y_I5LRptbofaD5i7yvOmHgFtU_tiQ0Uqntmtc",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.056537750142833236
             }
           },
@@ -32883,6 +32960,7 @@ const mapData = {
               "Nom_Imagen": "ORTOFOTO_SLP_110.jp2",
               "Link": "https://mega.nz/file/e0oByBYK#b2Ocw9n4g4ysT2brunvWLbBC5XbUoZ1bGAqJ6h1DBuU",
               "Link2": " ",
+              "Link_CN": null,
               "Shape_Length": 0.03704128661482217
             }
           }
@@ -32891,7 +32969,8 @@ const mapData = {
       "shp_link": "shp/TAMP___SNLP_Vuelo.zip",
       "stats_1": {
         "groups": {
-          "Con mosaico": 9.0
+          "Con mosaico": 401.0,
+          "Con mosaico actualizado": 9.0
         },
         "label": "Estatus",
         "title": "Resumen 20-05-2026  03:00 pm"
